@@ -1,9 +1,11 @@
 /*
+
 npm i -save-dev gulp
 npm i -save-dev gulp-sass
 npm i -save-dev gulp-clean-css
 npm i -save-dev gulp-autoprefixer
 npm i -save-dev browser-sync
+
 */
 
 
